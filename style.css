@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(238, 217, 224);
+}
+
+section {
+    margin-top: 50px;
+    padding: 30px 10px;
+}
+
+.custom-navbar {
+    background-color: #eb5e6e !important;
+}
